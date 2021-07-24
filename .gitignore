@@ -1,0 +1,4 @@
+data/test.tsv
+data/train.tsv
+data/sample_submit.tsv
+*/.ipynb_checkpoints
